@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:300,300i,700|Playfair+Display:400,400i&display=swap");
 
 body {
-  font: 400 18px/1.5 Georgia, sans-serif;
+  font: 400 18px/1.5 'Lato', sans-serif;
   background: #fdfdfd;
   color: #000;
 }
@@ -27,7 +27,6 @@ h6 {
   box-shadow: 1px 1px 120px 1px rgba(15, 11, 11, 0.1);
 }
 .ba-post p {
-  font-family: "Lato", sans-serif;
   font-weight: 300;
   color: #bcbcbc;
   line-height: 1.79;
