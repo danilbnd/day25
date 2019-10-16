@@ -7,6 +7,7 @@ body {
 }
 p {
   padding: 0;
+  margin: 0;
 }
 h1,
 h2,
@@ -49,7 +50,7 @@ h6 {
 .ba-post p:nth-child(4) {
   padding-bottom: 10px;
 }
-.ba-post-subtitle:first-letter {
+p:first-of-type::first-letter {
   color: #171717;
   float: left;
   font-size: 110px;
