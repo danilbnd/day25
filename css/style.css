@@ -83,3 +83,8 @@ p:first-of-type::first-letter {
   text-decoration: none;
   color: #e8a15e;
 }
+
+.ba-button-discover:hover {
+	background: #e8a15f;
+	color: #fff;
+}
